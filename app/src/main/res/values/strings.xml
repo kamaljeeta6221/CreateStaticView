@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CreateStaticView</string>
+    <string-array name="tourist_place">
+        <item>goa</item>
+        <item>agra</item>
+        <item>manali</item>
+        <item>Nenital</item>
+        <item>Pokhra</item>
+        <item>jammu</item>
+        <item>Cherapunji</item>
+        <item>Kasmir</item>
+        <item>Amritsar</item>
+        <item>goa</item>
+        <item>agra</item>
+        <item>manali</item>
+        <item>Nenital</item>
+        <item>Pokhra</item>
+        <item>jammu</item>
+        <item>Cherapunji</item>
+        <item>Kasmir</item>
+        <item>Amritsar</item>
+
+
+
+
+
+    </string-array>
+</resources>
